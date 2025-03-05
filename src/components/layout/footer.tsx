@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { Mail } from "lucide-react";
 import { GitHubLogoIcon, LinkedInLogoIcon, TwitterLogoIcon } from "@radix-ui/react-icons";
-import { BookText } from "lucide-react";
 import { BookOpenCheck } from "lucide-react";
 
 export function Footer() {

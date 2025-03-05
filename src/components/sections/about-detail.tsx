@@ -84,7 +84,7 @@ export function AboutDetail() {
               </p>
               <p>
                 His technical expertise encompasses a wide range of tools and technologies, including Python,
-                Streamlit, TensorFlow, PyTorch, scikit-learn, and various cloud platforms.  Paul's projects,
+                Streamlit, TensorFlow, PyTorch, scikit-learn, and various cloud platforms.  Paul&apos;s projects,
                 such as his sentiment analysis of Nigerian digital lending platforms and his contributions to
                 hackathons focused on African health and unemployment, highlight his commitment to using data
                 science for social impact.  He is proficient in building end-to-end machine learning pipelines,

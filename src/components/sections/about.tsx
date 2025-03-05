@@ -47,7 +47,7 @@ export function About() {
             As a Data Scientist, AI Engineer, I am deeply involved in the development and deployment of advanced AI/ML solutions.  
             My work combines cutting-edge research in healthcare AI, GenAI and AI agents, with hands-on experience 
             in building practical applications across diverse domains. I leverage my expertise in machine learning, 
-            deep learning, and natural language processing (NLP) to create impactful solutions that address real-world challenges."
+            deep learning, and natural language processing (NLP) to create impactful solutions that address real-world challenges.
             </p>
           </Card>
 
